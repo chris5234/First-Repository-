@@ -1,2 +1,3 @@
 # First-Repository-
-My first repository
+
+I'm learning python 
