@@ -1,3 +1,2 @@
 # First-Repository-
-
-I'm learning python 
+Python 101 
