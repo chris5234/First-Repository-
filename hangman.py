@@ -1,7 +1,4 @@
-#########################################################
-## File Name: hangman.py                               ##
-## Description: Starter for Hangman project - ICS3U    ##
-#########################################################
+
 import pygame
 import random
 
@@ -18,7 +15,7 @@ RED = (255,0, 0)
 GREEN = (0,255,0)
 BLUE = (0,0,255)
 LIGHT_BLUE = (102,255,255)
-
+#wtf does this mean 
 btn_font = pygame.font.SysFont("arial", 20)
 guess_font = pygame.font.SysFont("monospace", 24)
 lost_font = pygame.font.SysFont('arial', 45)
