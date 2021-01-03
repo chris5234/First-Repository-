@@ -4,4 +4,8 @@ while (loop < 10):
     #questions that the program asks the user
 noun = input("choose a noun: ")
 p_noun = input("Choose a plural noun: ")
-noun 2 = inpu("Choose a second nound: ")
+noun 2 = input("Choose a second nound: ")
+place = input("Name a place")
+adjective = input("Choose an adjective (Describing word): ")
+noun3 = input(choose a noun: ")
+// Displays the story based on the users input 
